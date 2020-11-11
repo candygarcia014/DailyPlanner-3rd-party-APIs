@@ -6,8 +6,10 @@
 
 * Most of the Style.css file was provided. I added styling to the class description, rows, add button, and the color change for the past, present, and future. I also adjusted the color scheme and font size to make the page look relatively proportionate in size. 
 
+* formatting the date and time was very confusing and I resorted to YouTube after a long day of frustration and getting absolutely nothing accomplished. :(
 
-* I had a hard time with Json and stingifying the information to the local storage. I
+* I had a hard time with Json and stingifying the information to the local storage. 
+
 
 
 Link to the website app:  https://candygarcia014.github.io/DailyPlanner-3rd-party-APIs/
