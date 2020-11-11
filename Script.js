@@ -57,7 +57,6 @@ $(document).ready(function() {
         //Append to screen 
         newRow.append(hourColumn, toDoCol, newColSave);
         mainDisplay.append(newRow);
-
     };
 
     //Click save to save event into local storage
